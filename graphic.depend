@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1571529525 source:c:\users\pc\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657987 source:c:\users\dell\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657987 source:d:\kais nouveau\kais 2019_2020\menu deroulant\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1611451227 source:c:\users\user\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"tp2.h"
+	"tp3.h"
+	"tp4.h"
+
+1611439125 c:\users\user\desktop\graphic\tp2.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"entre_sortie.h"
+	<time.h>
+	<math.h>
+
+1611453711 c:\users\user\desktop\graphic\tp3.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"entre_sortie.h"
+	<time.h>
+	<stdbool.h>
+
+1609535359 c:\users\user\desktop\graphic\tp4.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"entre_sortie.h"
+	<stdbool.h>
+
+1611453742 c:\users\user\desktop\graphic\entre_sortie.h
+	<stdbool.h>
+
+1611330847 c:\users\user\desktop\graphic\resource.h
+
